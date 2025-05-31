@@ -114,15 +114,15 @@ nav a:hover {
 }
 
 .parallax-1 {
-    background-image: url('./imagens/Montanhas-Parallax.png'); /*Imagens de Montanhas*/
+    background-image: url('Montanhas-Parallax.png'); /*Imagens de Montanhas*/
 }
 
 .parallax-2 {
-    background-image: url('./imagens/Florestas-parallax.png'); /*Imagens de uma floresta */
+    background-image: url('Florestas-parallax.png'); /*Imagens de uma floresta */
 }
 
 .parallax-3 {
-    background-image: url('./imagens/Oceano-parallax.png'); /*Imagem de Oceano*/
+    background-image: url('imagens/Oceano-parallax.png'); /*Imagem de Oceano*/
 }
 
 /*Conteúdo dentro das seções parallax */
